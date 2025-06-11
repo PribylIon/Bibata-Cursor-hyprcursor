@@ -18,7 +18,7 @@ new files:
 Download your favourite cursor from [Releases](https://github.com/LOSEARDES77/Bibata-Cursor-hyprcursor/releases/latest)
 
 Extract it and place it on `~/.local/share/icons/` so the 
-structure of that folder should be somethiing like this:
+structure of that folder should be something like this:
 ```bash
 ~/.local/share/icons/Bibata-Modern-Ice/
     | - hyprcursors
@@ -26,7 +26,7 @@ structure of that folder should be somethiing like this:
 ```
 Then on your hyprland.conf add
 ```conf
-env = HYPRCURSOR_THEME,Bibata-Modern-Ice  # Replace Bibata-Modern-Ice with the name of the theme you dosnloaded
+env = HYPRCURSOR_THEME,Bibata-Modern-Ice  # Replace Bibata-Modern-Ice with the name of the theme you downloaded
 env = HYPRCURSOR_SIZE,24                  # Replace 24 with your desired size
 ```
 
@@ -55,7 +55,7 @@ You can change the name of the cursor if it conlicts with another cursor theme b
 5. `yarn generate`
 
 On the bin folder it should have generated all the themes
-Hyprcursr themes are named as `hypr_<theme_name>.tar.gz`
+Hyprcursor themes are named as `hypr_<theme_name>.tar.gz`
 
 
 ---
